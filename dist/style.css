@@ -1,0 +1,143 @@
+
+.b-card {
+float: left;
+padding: 20px;
+
+}
+
+.disable {
+    float: left;
+    padding: 20px;
+    pointer-events: none;
+    }
+
+.b-deleted-card {
+    float: left;
+    padding: 20px;
+    width: 200px;
+    height: 278px  
+}
+
+.b-main {
+    margin: auto;
+    height: 948px;
+    }
+
+.b-start-game {
+    margin: 195px;
+    margin-left: 220px;
+    height: 800px;
+    width: 1020px;
+}
+
+.b-end-game {
+    margin-top: 150px;
+    margin-left: 215px;
+    height: 800px;
+    width: 1020px;
+}
+
+
+
+.b-start-name {
+    padding: 45px 0px;
+    margin-left: 270px;
+    height: 160px;
+    width: 460px;
+}
+
+.b-end-score {
+    padding: 40px 0px;
+    margin-left: 180px;
+    height: 200px;
+    width: 655px;
+    text-align: center;
+    color: #ffff;
+ 
+}
+
+.h2 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffff
+}
+
+.h1 {
+    font-size: 58px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffff
+}
+
+.b-btn-start {
+    margin-left: 360px;
+    margin-top: 25px;
+    color: #1c7330; 
+    height: 85px;
+    width: 287px;
+}
+
+.b-btn-end {
+    margin-left: 380px;
+    margin-top: 53px;
+    color: #1c7330; 
+    height: 85px;
+    width: 255px;
+}
+
+
+.btn-restart {
+    background: #1c7330; 
+    color: #ffff; 
+}
+
+.b-center{
+    margin-left: 560px; 
+    width: 1440px;
+}
+
+.b-header {
+    margin-top: 87px ;
+    height: 80px;
+    }
+
+.b-restart {
+    margin: 10px auto;
+    padding-top: 10px; 
+    text-align: center;
+    float: left;
+    font-size: 25px;
+    width: 250px;
+    height: 60px; 
+    color: #ffff
+}
+
+
+.b-score{
+    margin: 10px 25px;
+    padding-top: 10px; 
+    float: right;
+    text-align: right;
+    font-size: 27px;
+    width: 200px;
+    height: 60px; 
+    
+}
+
+.b-numbers{ 
+    width: 80px;
+    height: 40px; 
+    float: right;
+    color: #ffff
+}
+
+.b-body {
+    background-color: #1c7330; 
+    width: 2560px;
+    height: 1200px;
+}
+
+.hide {
+   visibility: hidden;
+}
